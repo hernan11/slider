@@ -1,0 +1,21 @@
+.sliderIndicators {
+  position: absolute;
+  left: 50%;
+  bottom: 1.5em;
+  z-index: 2;
+  transform: translateX(-50%);
+}
+
+.sliderIndicator {
+  margin: 0.2em;
+  width: 15px;
+  height: 15px;
+  border: none;
+  border-radius: 50%;
+  background-color: var(--clr-white);
+  opacity: 0.5;
+}
+
+.active {
+  opacity: 1;
+}

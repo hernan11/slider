@@ -1,0 +1,30 @@
+:root {
+  /* Colors */
+  --clr-black: hsl(0, 0%, 7%);
+  --clr-lightblue: hsl(204, 70%, 53%);
+  --clr-white: hsl(0, 0%, 100%);
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--clr-black);
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
