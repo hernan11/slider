@@ -1,2 +1,2 @@
-# SLIDER
+# Slider
 Slider Manual De Imágenes
