@@ -1,2 +1,3 @@
 # Slider
-Slider Manual De Imágenes
+Slider manual de imágenes
+## Tabla de Contenidos
