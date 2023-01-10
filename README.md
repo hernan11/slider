@@ -5,3 +5,4 @@ Slider manual de imágenes
   - Construido con
   - Captura de pantalla
 ## Resumen
+### Construido con
