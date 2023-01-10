@@ -10,3 +10,4 @@ Slider manual de imágenes
 - CSS
 - JavaScript
 - React JS
+### Captura de Pantalla
