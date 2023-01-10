@@ -6,7 +6,6 @@ Slider manual de imágenes
   - Captura de pantalla
 ## Resumen
 ### Construido con
-- HTML
 - CSS
 - JavaScript
 - React JS
