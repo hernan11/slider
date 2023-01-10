@@ -1,8 +1,8 @@
 # Slider
 Slider manual de imágenes
 ## Tabla de Contenidos
-- [Resumen](## Resumen)
-  - Construido con
+- [Resumen](##Resumen)
+  - [Construido con](###Construido-con)
   - Captura de pantalla
 ## Resumen
 ### Construido con
