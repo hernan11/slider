@@ -1,5 +1,5 @@
 # Slider
-Slider manual de imágenes
+Slider manual de imágenes - [Demo](https://hernan11.github.io/slider/)
 ## Tabla de Contenidos
 - [Resumen](#resumen)
   - [Construido con](#construido-con)
