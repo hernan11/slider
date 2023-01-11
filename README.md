@@ -1,9 +1,9 @@
 # Slider
 Slider manual de imágenes
 ## Tabla de Contenidos
-- [Resumen](##Resumen)
-  - [Construido con](###construido-con)
-  - [Captura de pantalla](###captura-de-pantalla)
+- [Resumen](## resumen)
+  - [Construido con](### construido-con)
+  - [Captura de pantalla](### captura-de-pantalla)
 ## Resumen
 ### Construido con
 - CSS
