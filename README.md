@@ -3,7 +3,7 @@ Slider Manual De Imágenes
 ## Tabla de Contenidos
 - [Resumen](#resumen)
   - [Construido con](#construido-con)
-  - [Captura de pantalla](#captura-de-pantalla)
+  - [Captura de Pantalla](#captura-de-pantalla)
 ## Resumen
 ### Construido con
 - CSS
