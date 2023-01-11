@@ -1,5 +1,5 @@
 # Slider
-Slider manual de imágenes
+Slider Manual De Imágenes
 
 [Ver Demo](https://hernan11.github.io/slider/)
 
